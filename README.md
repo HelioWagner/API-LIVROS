@@ -26,5 +26,6 @@ Esta é uma API RESTful para cadastro, listagem, exclusão e atualização de li
 ### 2. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone git@github.com:HelioWagner/API-LIVROS.git
 cd seu-repositorio
+
